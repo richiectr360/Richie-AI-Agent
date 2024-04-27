@@ -1,5 +1,7 @@
 # Richie AI Template
 
+Weblink: https://richie-ai-agent.vercel.app/
+
 This project is a template code to start any AI project.
 
 It's a chat interface that allows you to talk with the Richie AI. You can send him text messages by clicking on the text button or request an AI art image by clicking on the image button.
